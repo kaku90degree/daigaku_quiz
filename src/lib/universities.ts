@@ -4,7 +4,8 @@ let cache: University[] | null = null;
 
 export async function loadUniversities(): Promise<University[]> {
   if (cache) return cache;
-  const res = await fetch("/data/universities.json");
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  const res = await fetch(`${basePath}/data/universities.json`);
   cache = (await res.json()) as University[];
   return cache;
 }
