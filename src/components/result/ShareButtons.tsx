@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import type { Genre, Difficulty } from '@/types'
-import { buildShareText, shareNative, shareToX, shareToLine, copyToClipboard } from '@/lib/share'
+import { buildShareText, shareToX, shareToLine, copyToClipboard } from '@/lib/share'
 
 type Props = {
   genre: Genre
@@ -14,11 +14,6 @@ type Props = {
 export function ShareButtons({ genre, difficulty, score, total }: Props) {
   const [copied, setCopied] = useState(false)
   const text = buildShareText(genre, difficulty, score, total)
-
-  const handleNativeOrX = async () => {
-    const ok = await shareNative(text)
-    if (!ok) shareToX(text)
-  }
 
   const handleCopy = async () => {
     const ok = await copyToClipboard(text)
@@ -33,7 +28,7 @@ export function ShareButtons({ genre, difficulty, score, total }: Props) {
       <p className="text-sm text-gray-500 text-center mb-3">結果をシェアする</p>
       <div className="flex gap-3 justify-center">
         <button
-          onClick={handleNativeOrX}
+          onClick={() => shareToX(text)}
           className="flex items-center gap-2 px-4 py-2 rounded-lg bg-black text-white text-sm font-medium hover:bg-gray-800 transition-colors"
         >
           X でシェア
