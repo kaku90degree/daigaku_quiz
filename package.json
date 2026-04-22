@@ -9,6 +9,7 @@
     "lint": "eslint",
     "fetch-data": "tsx scripts/fetch-universities.ts",
     "generate-questions": "tsx scripts/generate-questions.ts",
+    "parse-mext": "tsx scripts/parse-mext-excel.ts",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {

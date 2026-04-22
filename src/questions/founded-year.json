@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "univ-001-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「東京大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1881",
+      "1877",
+      "1875",
+      "1885"
+    ],
+    "correctAnswer": "1877",
+    "explanation": "東京大学は1877年に設立されました（東京都・国立）。",
+    "universityId": "univ-001"
+  },
+  {
+    "id": "univ-002-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「京都大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1887",
+      "1911",
+      "1885",
+      "1897"
+    ],
+    "correctAnswer": "1897",
+    "explanation": "京都大学は1897年に設立されました（京都府・国立）。",
+    "universityId": "univ-002"
+  },
+  {
+    "id": "univ-003-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「大阪大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1907",
+      "1889",
+      "1931",
+      "1949"
+    ],
+    "correctAnswer": "1931",
+    "explanation": "大阪大学は1931年に設立されました（大阪府・国立）。",
+    "universityId": "univ-003"
+  },
+  {
+    "id": "univ-004-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「東北大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1897",
+      "1885",
+      "1907",
+      "1925"
+    ],
+    "correctAnswer": "1907",
+    "explanation": "東北大学は1907年に設立されました（宮城県・国立）。",
+    "universityId": "univ-004"
+  },
+  {
+    "id": "univ-005-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「名古屋大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1907",
+      "1897",
+      "1973",
+      "1939"
+    ],
+    "correctAnswer": "1939",
+    "explanation": "名古屋大学は1939年に設立されました（愛知県・国立）。",
+    "universityId": "univ-005"
+  },
+  {
+    "id": "univ-006-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「北海道大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1876",
+      "1887",
+      "1885",
+      "1886"
+    ],
+    "correctAnswer": "1876",
+    "explanation": "北海道大学は1876年に設立されました（北海道・国立）。",
+    "universityId": "univ-006"
+  },
+  {
+    "id": "univ-007-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「九州大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1889",
+      "1886",
+      "1931",
+      "1911"
+    ],
+    "correctAnswer": "1911",
+    "explanation": "九州大学は1911年に設立されました（福岡県・国立）。",
+    "universityId": "univ-007"
+  },
+  {
+    "id": "univ-008-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「東京工業大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1874",
+      "1887",
+      "1881",
+      "1882"
+    ],
+    "correctAnswer": "1881",
+    "explanation": "東京工業大学は1881年に設立されました（東京都・国立）。",
+    "universityId": "univ-008"
+  },
+  {
+    "id": "univ-009-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「一橋大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1875",
+      "1876",
+      "1881",
+      "1887"
+    ],
+    "correctAnswer": "1875",
+    "explanation": "一橋大学は1875年に設立されました（東京都・国立）。",
+    "universityId": "univ-009"
+  },
+  {
+    "id": "univ-010-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「早稲田大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1874",
+      "1887",
+      "1875",
+      "1882"
+    ],
+    "correctAnswer": "1882",
+    "explanation": "早稲田大学は1882年に設立されました（東京都・私立）。",
+    "universityId": "univ-010"
+  },
+  {
+    "id": "univ-011-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「慶應義塾大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1874",
+      "1885",
+      "1880",
+      "1858"
+    ],
+    "correctAnswer": "1858",
+    "explanation": "慶應義塾大学は1858年に設立されました（東京都・私立）。",
+    "universityId": "univ-011"
+  },
+  {
+    "id": "univ-012-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「上智大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1925",
+      "1913",
+      "1911",
+      "1907"
+    ],
+    "correctAnswer": "1913",
+    "explanation": "上智大学は1913年に設立されました（東京都・私立）。",
+    "universityId": "univ-012"
+  },
+  {
+    "id": "univ-013-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「明治大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1881",
+      "1886",
+      "1874",
+      "1882"
+    ],
+    "correctAnswer": "1881",
+    "explanation": "明治大学は1881年に設立されました（東京都・私立）。",
+    "universityId": "univ-013"
+  },
+  {
+    "id": "univ-014-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「立教大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1874",
+      "1889",
+      "1885",
+      "1876"
+    ],
+    "correctAnswer": "1874",
+    "explanation": "立教大学は1874年に設立されました（東京都・私立）。",
+    "universityId": "univ-014"
+  },
+  {
+    "id": "univ-015-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「中央大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1877",
+      "1881",
+      "1885",
+      "1880"
+    ],
+    "correctAnswer": "1885",
+    "explanation": "中央大学は1885年に設立されました（東京都・私立）。",
+    "universityId": "univ-015"
+  },
+  {
+    "id": "univ-016-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「法政大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1881",
+      "1877",
+      "1887",
+      "1880"
+    ],
+    "correctAnswer": "1880",
+    "explanation": "法政大学は1880年に設立されました（東京都・私立）。",
+    "universityId": "univ-016"
+  },
+  {
+    "id": "univ-017-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「青山学院大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1874",
+      "1875",
+      "1886",
+      "1877"
+    ],
+    "correctAnswer": "1874",
+    "explanation": "青山学院大学は1874年に設立されました（東京都・私立）。",
+    "universityId": "univ-017"
+  },
+  {
+    "id": "univ-018-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「同志社大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1874",
+      "1875",
+      "1876",
+      "1887"
+    ],
+    "correctAnswer": "1875",
+    "explanation": "同志社大学は1875年に設立されました（京都府・私立）。",
+    "universityId": "univ-018"
+  },
+  {
+    "id": "univ-019-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「立命館大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1885",
+      "1913",
+      "1900",
+      "1907"
+    ],
+    "correctAnswer": "1900",
+    "explanation": "立命館大学は1900年に設立されました（京都府・私立）。",
+    "universityId": "univ-019"
+  },
+  {
+    "id": "univ-020-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「関西大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1886",
+      "1881",
+      "1882",
+      "1885"
+    ],
+    "correctAnswer": "1886",
+    "explanation": "関西大学は1886年に設立されました（大阪府・私立）。",
+    "universityId": "univ-020"
+  },
+  {
+    "id": "univ-021-year",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「関西学院大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1885",
+      "1877",
+      "1882",
+      "1889"
+    ],
+    "correctAnswer": "1889",
+    "explanation": "関西学院大学は1889年に設立されました（兵庫県・私立）。",
+    "universityId": "univ-021"
+  },
+  {
+    "id": "univ-030-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「筑波大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1925",
+      "1973",
+      "1949",
+      "2022"
+    ],
+    "correctAnswer": "1973",
+    "explanation": "筑波大学は1973年に設立されました（茨城県・国立）。",
+    "universityId": "univ-030"
+  },
+  {
+    "id": "univ-031-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「横浜国立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1931",
+      "1939",
+      "1949",
+      "1913"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "横浜国立大学は1949年に設立されました（神奈川県・国立）。",
+    "universityId": "univ-031"
+  },
+  {
+    "id": "univ-032-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「千葉大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1939",
+      "1911",
+      "1931",
+      "1949"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "千葉大学は1949年に設立されました（千葉県・国立）。",
+    "universityId": "univ-032"
+  },
+  {
+    "id": "univ-033-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「神戸大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1900",
+      "1950",
+      "1993"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "神戸大学は1949年に設立されました（兵庫県・国立）。",
+    "universityId": "univ-033"
+  },
+  {
+    "id": "univ-034-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「広島大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1900",
+      "1950",
+      "1925",
+      "1949"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "広島大学は1949年に設立されました（広島県・国立）。",
+    "universityId": "univ-034"
+  },
+  {
+    "id": "univ-035-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「岡山大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1993",
+      "1950",
+      "1949",
+      "1931"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "岡山大学は1949年に設立されました（岡山県・国立）。",
+    "universityId": "univ-035"
+  },
+  {
+    "id": "univ-036-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「金沢大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1913",
+      "1900",
+      "1950",
+      "1949"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "金沢大学は1949年に設立されました（石川県・国立）。",
+    "universityId": "univ-036"
+  },
+  {
+    "id": "univ-037-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「東京農工大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1993",
+      "1900",
+      "1949",
+      "1925"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "東京農工大学は1949年に設立されました（東京都・国立）。",
+    "universityId": "univ-037"
+  },
+  {
+    "id": "univ-038-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「電気通信大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1950",
+      "1993",
+      "1949",
+      "1911"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "電気通信大学は1949年に設立されました（東京都・国立）。",
+    "universityId": "univ-038"
+  },
+  {
+    "id": "univ-039-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「東京外国語大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1885",
+      "1897",
+      "1881",
+      "1886"
+    ],
+    "correctAnswer": "1897",
+    "explanation": "東京外国語大学は1897年に設立されました（東京都・国立）。",
+    "universityId": "univ-039"
+  },
+  {
+    "id": "univ-040-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「お茶の水女子大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1875",
+      "1885",
+      "1882",
+      "1874"
+    ],
+    "correctAnswer": "1875",
+    "explanation": "お茶の水女子大学は1875年に設立されました（東京都・国立）。",
+    "universityId": "univ-040"
+  },
+  {
+    "id": "univ-041-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「東京都立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1913",
+      "1949",
+      "1950",
+      "1931"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "東京都立大学は1949年に設立されました（東京都・公立）。",
+    "universityId": "univ-041"
+  },
+  {
+    "id": "univ-042-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「大阪公立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1939",
+      "1993",
+      "1931",
+      "2022"
+    ],
+    "correctAnswer": "2022",
+    "explanation": "大阪公立大学は2022年に設立されました（大阪府・公立）。",
+    "universityId": "univ-042"
+  },
+  {
+    "id": "univ-043-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「横浜市立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1907",
+      "1949",
+      "1925",
+      "1900"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "横浜市立大学は1949年に設立されました（神奈川県・公立）。",
+    "universityId": "univ-043"
+  },
+  {
+    "id": "univ-044-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「名古屋市立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1973",
+      "1900",
+      "1950",
+      "1925"
+    ],
+    "correctAnswer": "1950",
+    "explanation": "名古屋市立大学は1950年に設立されました（愛知県・公立）。",
+    "universityId": "univ-044"
+  },
+  {
+    "id": "univ-050-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「日本大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1881",
+      "1882",
+      "1889",
+      "1900"
+    ],
+    "correctAnswer": "1889",
+    "explanation": "日本大学は1889年に設立されました（東京都・私立）。",
+    "universityId": "univ-050"
+  },
+  {
+    "id": "univ-051-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「東洋大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1887",
+      "1876",
+      "1877",
+      "1889"
+    ],
+    "correctAnswer": "1887",
+    "explanation": "東洋大学は1887年に設立されました（東京都・私立）。",
+    "universityId": "univ-051"
+  },
+  {
+    "id": "univ-052-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「駒澤大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1876",
+      "1880",
+      "1882",
+      "1886"
+    ],
+    "correctAnswer": "1882",
+    "explanation": "駒澤大学は1882年に設立されました（東京都・私立）。",
+    "universityId": "univ-052"
+  },
+  {
+    "id": "univ-053-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「専修大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1880",
+      "1877",
+      "1882",
+      "1876"
+    ],
+    "correctAnswer": "1880",
+    "explanation": "専修大学は1880年に設立されました（東京都・私立）。",
+    "universityId": "univ-053"
+  },
+  {
+    "id": "univ-054-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「近畿大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1897",
+      "1925",
+      "1889",
+      "1949"
+    ],
+    "correctAnswer": "1925",
+    "explanation": "近畿大学は1925年に設立されました（大阪府・私立）。",
+    "universityId": "univ-054"
+  },
+  {
+    "id": "univ-055-year",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「龍谷大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1639",
+      "1876",
+      "1858",
+      "1880"
+    ],
+    "correctAnswer": "1639",
+    "explanation": "龍谷大学は1639年に設立されました（京都府・私立）。",
+    "universityId": "univ-055"
+  },
+  {
+    "id": "univ-070-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「弘前大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1900",
+      "1973",
+      "1925"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "弘前大学は1949年に設立されました（青森県・国立）。",
+    "universityId": "univ-070"
+  },
+  {
+    "id": "univ-071-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「秋田大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1973",
+      "1911",
+      "1949",
+      "1950"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "秋田大学は1949年に設立されました（秋田県・国立）。",
+    "universityId": "univ-071"
+  },
+  {
+    "id": "univ-072-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「山形大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1907",
+      "1911",
+      "1949",
+      "1900"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "山形大学は1949年に設立されました（山形県・国立）。",
+    "universityId": "univ-072"
+  },
+  {
+    "id": "univ-073-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「福島大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1907",
+      "1949",
+      "1950",
+      "1939"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "福島大学は1949年に設立されました（福島県・国立）。",
+    "universityId": "univ-073"
+  },
+  {
+    "id": "univ-074-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「宇都宮大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1925",
+      "1993",
+      "1913",
+      "1949"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "宇都宮大学は1949年に設立されました（栃木県・国立）。",
+    "universityId": "univ-074"
+  },
+  {
+    "id": "univ-075-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「群馬大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1931",
+      "1949",
+      "1939",
+      "1973"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "群馬大学は1949年に設立されました（群馬県・国立）。",
+    "universityId": "univ-075"
+  },
+  {
+    "id": "univ-076-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「信州大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1925",
+      "1907",
+      "1949",
+      "1973"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "信州大学は1949年に設立されました（長野県・国立）。",
+    "universityId": "univ-076"
+  },
+  {
+    "id": "univ-077-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「静岡大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1925",
+      "1949",
+      "1911",
+      "1973"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "静岡大学は1949年に設立されました（静岡県・国立）。",
+    "universityId": "univ-077"
+  },
+  {
+    "id": "univ-078-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「三重大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1973",
+      "1907",
+      "1993"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "三重大学は1949年に設立されました（三重県・国立）。",
+    "universityId": "univ-078"
+  },
+  {
+    "id": "univ-079-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「鳥取大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1939",
+      "1907",
+      "1931"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "鳥取大学は1949年に設立されました（鳥取県・国立）。",
+    "universityId": "univ-079"
+  },
+  {
+    "id": "univ-080-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「島根大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1973",
+      "1911",
+      "1939",
+      "1949"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "島根大学は1949年に設立されました（島根県・国立）。",
+    "universityId": "univ-080"
+  },
+  {
+    "id": "univ-081-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「愛媛大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1931",
+      "1925",
+      "1907"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "愛媛大学は1949年に設立されました（愛媛県・国立）。",
+    "universityId": "univ-081"
+  },
+  {
+    "id": "univ-082-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「高知大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1950",
+      "1949",
+      "1925",
+      "1973"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "高知大学は1949年に設立されました（高知県・国立）。",
+    "universityId": "univ-082"
+  },
+  {
+    "id": "univ-083-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「佐賀大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1907",
+      "1913",
+      "1939"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "佐賀大学は1949年に設立されました（佐賀県・国立）。",
+    "universityId": "univ-083"
+  },
+  {
+    "id": "univ-084-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「長崎大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1925",
+      "1950",
+      "1949",
+      "1973"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "長崎大学は1949年に設立されました（長崎県・国立）。",
+    "universityId": "univ-084"
+  },
+  {
+    "id": "univ-085-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「熊本大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1973",
+      "1993",
+      "1949",
+      "1913"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "熊本大学は1949年に設立されました（熊本県・国立）。",
+    "universityId": "univ-085"
+  },
+  {
+    "id": "univ-086-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「大分大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1950",
+      "1949",
+      "1913",
+      "1900"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "大分大学は1949年に設立されました（大分県・国立）。",
+    "universityId": "univ-086"
+  },
+  {
+    "id": "univ-087-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「宮崎大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1950",
+      "1993",
+      "1949",
+      "1931"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "宮崎大学は1949年に設立されました（宮崎県・国立）。",
+    "universityId": "univ-087"
+  },
+  {
+    "id": "univ-088-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「鹿児島大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1949",
+      "1931",
+      "1973",
+      "1993"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "鹿児島大学は1949年に設立されました（鹿児島県・国立）。",
+    "universityId": "univ-088"
+  },
+  {
+    "id": "univ-089-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「琉球大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1913",
+      "1925",
+      "1911",
+      "1950"
+    ],
+    "correctAnswer": "1950",
+    "explanation": "琉球大学は1950年に設立されました（沖縄県・国立）。",
+    "universityId": "univ-089"
+  },
+  {
+    "id": "univ-090-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「札幌医科大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1993",
+      "1925",
+      "1950",
+      "1939"
+    ],
+    "correctAnswer": "1950",
+    "explanation": "札幌医科大学は1950年に設立されました（北海道・公立）。",
+    "universityId": "univ-090"
+  },
+  {
+    "id": "univ-091-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「会津大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "2022",
+      "1931",
+      "1993",
+      "1939"
+    ],
+    "correctAnswer": "1993",
+    "explanation": "会津大学は1993年に設立されました（福島県・公立）。",
+    "universityId": "univ-091"
+  },
+  {
+    "id": "univ-092-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「国際教養大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "2004",
+      "1993",
+      "1950",
+      "1973"
+    ],
+    "correctAnswer": "2004",
+    "explanation": "国際教養大学は2004年に設立されました（秋田県・公立）。",
+    "universityId": "univ-092"
+  },
+  {
+    "id": "univ-093-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「静岡文化芸術大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1950",
+      "1949",
+      "1925",
+      "2000"
+    ],
+    "correctAnswer": "2000",
+    "explanation": "静岡文化芸術大学は2000年に設立されました（静岡県・公立）。",
+    "universityId": "univ-093"
+  },
+  {
+    "id": "univ-094-year",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「兵庫県立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1913",
+      "2004",
+      "2022",
+      "1950"
+    ],
+    "correctAnswer": "2004",
+    "explanation": "兵庫県立大学は2004年に設立されました（兵庫県・公立）。",
+    "universityId": "univ-094"
+  },
+  {
+    "id": "manual-y-e-01",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「東京理科大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1871",
+      "1881",
+      "1891",
+      "1901"
+    ],
+    "correctAnswer": "1881",
+    "explanation": "東京理科大学は1881年（明治14年）に東京物理学講習所として設立されました。理工系私立大学として長い歴史を持ちます。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-02",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「学習院大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1937",
+      "1947",
+      "1957",
+      "1967"
+    ],
+    "correctAnswer": "1947",
+    "explanation": "学習院大学は1947年（昭和22年）に設立されました。前身の学習院（華族の学校）は1847年創設と歴史があります。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-03",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「日本大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1879",
+      "1889",
+      "1899",
+      "1909"
+    ],
+    "correctAnswer": "1889",
+    "explanation": "日本大学は1889年（明治22年）に日本法律学校として設立されました。現在は学生数日本最大規模の大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-04",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「東京都立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1939",
+      "1949",
+      "1959",
+      "1969"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "東京都立大学は1949年（昭和24年）に東京都立大学として設立されました。2020年に首都大学東京から現名称に変更されました。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-05",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「近畿大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1929",
+      "1939",
+      "1949",
+      "1959"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "近畿大学は1949年（昭和24年）に設立されました。現在は学生数が全国屈指の規模を誇ります。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-06",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「大阪公立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "2002",
+      "2012",
+      "2022",
+      "2032"
+    ],
+    "correctAnswer": "2022",
+    "explanation": "大阪公立大学は2022年（令和4年）に大阪市立大学と大阪府立大学が合併して誕生した大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-07",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「横浜市立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1928",
+      "1938",
+      "1948",
+      "1958"
+    ],
+    "correctAnswer": "1948",
+    "explanation": "横浜市立大学は1948年（昭和23年）に設立されました。前身の横浜市立横浜商業専門学校の歴史は1882年まで遡ります。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-08",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「名古屋市立大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1940",
+      "1950",
+      "1960",
+      "1970"
+    ],
+    "correctAnswer": "1950",
+    "explanation": "名古屋市立大学は1950年（昭和25年）に設立されました。医学部・薬学部を持つ公立大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-e-09",
+    "genre": "founded-year",
+    "difficulty": "easy",
+    "text": "「国際基督教大学（ICU）」の設立年はいつ頃ですか？",
+    "choices": [
+      "1939",
+      "1949",
+      "1959",
+      "1969"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "国際基督教大学（ICU）は1949年（昭和24年）に設立されました。リベラルアーツ教育で知られています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-01",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「東海大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1933",
+      "1943",
+      "1953",
+      "1963"
+    ],
+    "correctAnswer": "1943",
+    "explanation": "東海大学は1943年（昭和18年）に設立されました。工学・医学・体育など幅広い学部を持ちます。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-02",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「芝浦工業大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1917",
+      "1927",
+      "1937",
+      "1947"
+    ],
+    "correctAnswer": "1927",
+    "explanation": "芝浦工業大学は1927年（昭和2年）に設立されました。理工系私立大学として高い実績を持ちます。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-03",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「成蹊大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1902",
+      "1912",
+      "1922",
+      "1932"
+    ],
+    "correctAnswer": "1912",
+    "explanation": "成蹊大学は1912年（明治45年）に設立された成蹊学園を前身とします。大学としての設立は1949年です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-04",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「南山大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1926",
+      "1936",
+      "1946",
+      "1956"
+    ],
+    "correctAnswer": "1946",
+    "explanation": "南山大学は1946年（昭和21年）に設立されました。カトリック系の名古屋の名門私立大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-05",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「西南学院大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1906",
+      "1916",
+      "1926",
+      "1936"
+    ],
+    "correctAnswer": "1916",
+    "explanation": "西南学院大学は1916年（大正5年）に設立されたミッション系大学です。九州地方の代表的な私立大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-06",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「東北学院大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1886",
+      "1896",
+      "1906",
+      "1916"
+    ],
+    "correctAnswer": "1886",
+    "explanation": "東北学院大学は1886年（明治19年）に設立されたキリスト教主義の大学です。東北地方最大の私立大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-07",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「武蔵大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1919",
+      "1929",
+      "1939",
+      "1949"
+    ],
+    "correctAnswer": "1929",
+    "explanation": "武蔵大学は1929年（昭和4年）に設立されました。武蔵野の地に根ざしたリベラルアーツ教育で知られています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-08",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「福岡大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1924",
+      "1934",
+      "1944",
+      "1954"
+    ],
+    "correctAnswer": "1934",
+    "explanation": "福岡大学は1934年（昭和9年）に設立されました。九州地方の総合私立大学として医学部なども持ちます。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-m-09",
+    "genre": "founded-year",
+    "difficulty": "medium",
+    "text": "「帝京大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1956",
+      "1966",
+      "1976",
+      "1986"
+    ],
+    "correctAnswer": "1966",
+    "explanation": "帝京大学は1966年（昭和41年）に設立されました。医学部・薬学部など多数の学部を持つ総合大学です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-h-01",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「亜細亜大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1931",
+      "1941",
+      "1951",
+      "1961"
+    ],
+    "correctAnswer": "1941",
+    "explanation": "亜細亜大学は1941年（昭和16年）に興亜専門学校として設立されました。大学としては1955年の設置です。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-h-02",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「大東文化大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1913",
+      "1923",
+      "1933",
+      "1943"
+    ],
+    "correctAnswer": "1923",
+    "explanation": "大東文化大学は1923年（大正12年）に設立されました。漢学・東洋の学問を重んじる大学として知られています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-h-03",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「国士舘大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1907",
+      "1917",
+      "1927",
+      "1937"
+    ],
+    "correctAnswer": "1917",
+    "explanation": "国士舘大学は1917年（大正6年）に設立されました。体育学部を持ち、スポーツでも知られています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-h-04",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「文教大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1937",
+      "1947",
+      "1957",
+      "1967"
+    ],
+    "correctAnswer": "1947",
+    "explanation": "文教大学は1947年（昭和22年）に設立されました。教育学部を中心に教員養成で実績があります。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-y-h-05",
+    "genre": "founded-year",
+    "difficulty": "hard",
+    "text": "「城西大学」の設立年はいつ頃ですか？",
+    "choices": [
+      "1955",
+      "1965",
+      "1975",
+      "1985"
+    ],
+    "correctAnswer": "1965",
+    "explanation": "城西大学は1965年（昭和40年）に設立されました。薬学部を中心に理系に強い私立大学です。",
+    "universityId": ""
+  }
+]

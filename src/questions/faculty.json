@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "univ-001-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「東京大学」に設置されていない学部はどれ？",
+    "choices": [
+      "文学部",
+      "法学部",
+      "経済学部",
+      "外国語学部"
+    ],
+    "correctAnswer": "外国語学部",
+    "explanation": "東京大学には外国語学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・農学部・経済学部・教育学部・薬学部。",
+    "universityId": "univ-001"
+  },
+  {
+    "id": "univ-002-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「京都大学」に設置されていない学部はどれ？",
+    "choices": [
+      "理学部",
+      "工学部",
+      "看護学部",
+      "農学部"
+    ],
+    "correctAnswer": "看護学部",
+    "explanation": "京都大学には看護学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・農学部・経済学部・教育学部・薬学部。",
+    "universityId": "univ-002"
+  },
+  {
+    "id": "univ-003-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「大阪大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "薬学部",
+      "工学部",
+      "国際学部"
+    ],
+    "correctAnswer": "国際学部",
+    "explanation": "大阪大学には国際学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・歯学部・薬学部・経済学部・人間科学部・外国語学部・基礎工学部。",
+    "universityId": "univ-003"
+  },
+  {
+    "id": "univ-004-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「東北大学」に設置されていない学部はどれ？",
+    "choices": [
+      "教育学部",
+      "観光学部",
+      "法学部",
+      "理学部"
+    ],
+    "correctAnswer": "観光学部",
+    "explanation": "東北大学には観光学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・農学部・経済学部・教育学部・歯学部・薬学部。",
+    "universityId": "univ-004"
+  },
+  {
+    "id": "univ-005-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「名古屋大学」に設置されていない学部はどれ？",
+    "choices": [
+      "農学部",
+      "文学部",
+      "教育学部",
+      "獣医学部"
+    ],
+    "correctAnswer": "獣医学部",
+    "explanation": "名古屋大学には獣医学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・農学部・経済学部・教育学部・情報学部。",
+    "universityId": "univ-005"
+  },
+  {
+    "id": "univ-006-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「北海道大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "建築学部",
+      "理学部",
+      "法学部"
+    ],
+    "correctAnswer": "建築学部",
+    "explanation": "北海道大学には建築学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・農学部・経済学部・教育学部・歯学部・薬学部・獣医学部・水産学部。",
+    "universityId": "univ-006"
+  },
+  {
+    "id": "univ-007-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「九州大学」に設置されていない学部はどれ？",
+    "choices": [
+      "外国語学部",
+      "教育学部",
+      "経済学部",
+      "薬学部"
+    ],
+    "correctAnswer": "外国語学部",
+    "explanation": "九州大学には外国語学部は設置されていません。設置学部: 法学部・医学部・工学部・文学部・理学部・農学部・経済学部・教育学部・歯学部・薬学部・芸術工学部・共創学部。",
+    "universityId": "univ-007"
+  },
+  {
+    "id": "univ-008-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「東京工業大学」に設置されていない学部はどれ？",
+    "choices": [
+      "環境・社会理工学院",
+      "生命理工学院",
+      "理学部",
+      "工学院"
+    ],
+    "correctAnswer": "理学部",
+    "explanation": "東京工業大学には理学部は設置されていません。設置学部: 理学院・工学院・物質理工学院・情報理工学院・生命理工学院・環境・社会理工学院。",
+    "universityId": "univ-008"
+  },
+  {
+    "id": "univ-009-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「一橋大学」に設置されていない学部はどれ？",
+    "choices": [
+      "商学部",
+      "社会学部",
+      "経済学部",
+      "文学部"
+    ],
+    "correctAnswer": "文学部",
+    "explanation": "一橋大学には文学部は設置されていません。設置学部: 法学部・商学部・経済学部・社会学部。",
+    "universityId": "univ-009"
+  },
+  {
+    "id": "univ-010-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「早稲田大学」に設置されていない学部はどれ？",
+    "choices": [
+      "文化構想学部",
+      "農学部",
+      "創造理工学部",
+      "基幹理工学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "早稲田大学には農学部は設置されていません。設置学部: 政治経済学部・法学部・商学部・文学部・文化構想学部・教育学部・社会科学部・人間科学部・スポーツ科学部・国際教養学部・基幹理工学部・創造理工学部・先進理工学部。",
+    "universityId": "univ-010"
+  },
+  {
+    "id": "univ-011-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「慶應義塾大学」に設置されていない学部はどれ？",
+    "choices": [
+      "総合政策学部",
+      "医学部",
+      "情報学部",
+      "法学部"
+    ],
+    "correctAnswer": "情報学部",
+    "explanation": "慶應義塾大学には情報学部は設置されていません。設置学部: 法学部・医学部・商学部・文学部・経済学部・理工学部・総合政策学部・環境情報学部・看護医療学部・薬学部。",
+    "universityId": "univ-011"
+  },
+  {
+    "id": "univ-012-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「上智大学」に設置されていない学部はどれ？",
+    "choices": [
+      "デザイン学部",
+      "経済学部",
+      "国際教養学部",
+      "神学部"
+    ],
+    "correctAnswer": "デザイン学部",
+    "explanation": "上智大学にはデザイン学部は設置されていません。設置学部: 法学部・文学部・経済学部・外国語学部・総合人間科学部・神学部・理工学部・国際教養学部。",
+    "universityId": "univ-012"
+  },
+  {
+    "id": "univ-013-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「明治大学」に設置されていない学部はどれ？",
+    "choices": [
+      "総合数理学部",
+      "工学部",
+      "商学部",
+      "経営学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "明治大学には工学部は設置されていません。設置学部: 法学部・商学部・政治経済学部・文学部・理工学部・農学部・経営学部・情報コミュニケーション学部・国際日本学部・総合数理学部。",
+    "universityId": "univ-013"
+  },
+  {
+    "id": "univ-014-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「立教大学」に設置されていない学部はどれ？",
+    "choices": [
+      "国際学部",
+      "文学部",
+      "法学部",
+      "異文化コミュニケーション学部"
+    ],
+    "correctAnswer": "国際学部",
+    "explanation": "立教大学には国際学部は設置されていません。設置学部: 法学部・文学部・経済学部・観光学部・社会学部・理学部・コミュニティ福祉学部・経営学部・現代心理学部・異文化コミュニケーション学部。",
+    "universityId": "univ-014"
+  },
+  {
+    "id": "univ-015-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「中央大学」に設置されていない学部はどれ？",
+    "choices": [
+      "教育学部",
+      "国際経営学部",
+      "商学部",
+      "理工学部"
+    ],
+    "correctAnswer": "教育学部",
+    "explanation": "中央大学には教育学部は設置されていません。設置学部: 法学部・経済学部・商学部・文学部・理工学部・総合政策学部・国際経営学部・国際情報学部。",
+    "universityId": "univ-015"
+  },
+  {
+    "id": "univ-016-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「法政大学」に設置されていない学部はどれ？",
+    "choices": [
+      "スポーツ健康学部",
+      "医学部",
+      "経済学部",
+      "経営学部"
+    ],
+    "correctAnswer": "医学部",
+    "explanation": "法政大学には医学部は設置されていません。設置学部: 法学部・文学部・経済学部・社会学部・経営学部・工学部・現代福祉学部・国際文化学部・人間環境学部・キャリアデザイン学部・情報科学部・デザイン工学部・スポーツ健康学部。",
+    "universityId": "univ-016"
+  },
+  {
+    "id": "univ-017-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「青山学院大学」に設置されていない学部はどれ？",
+    "choices": [
+      "国際政治経済学部",
+      "社会情報学部",
+      "教育人間科学部",
+      "商学部"
+    ],
+    "correctAnswer": "商学部",
+    "explanation": "青山学院大学には商学部は設置されていません。設置学部: 文学部・教育人間科学部・経済学部・法学部・経営学部・国際政治経済学部・総合文化政策学部・理工学部・社会情報学部・地球社会共生学部・コミュニティ人間科学部。",
+    "universityId": "univ-017"
+  },
+  {
+    "id": "univ-018-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「同志社大学」に設置されていない学部はどれ？",
+    "choices": [
+      "スポーツ健康科学部",
+      "国際学部",
+      "政策学部",
+      "文化情報学部"
+    ],
+    "correctAnswer": "国際学部",
+    "explanation": "同志社大学には国際学部は設置されていません。設置学部: 法学部・文学部・経済学部・商学部・政策学部・文化情報学部・理工学部・生命医科学部・社会学部・グローバルコミュニケーション学部・グローバル地域文化学部・心理学部・スポーツ健康科学部。",
+    "universityId": "univ-018"
+  },
+  {
+    "id": "univ-019-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「立命館大学」に設置されていない学部はどれ？",
+    "choices": [
+      "観光学部",
+      "経済学部",
+      "生命科学部",
+      "文学部"
+    ],
+    "correctAnswer": "観光学部",
+    "explanation": "立命館大学には観光学部は設置されていません。設置学部: 法学部・産業社会学部・文学部・経済学部・経営学部・理工学部・政策科学部・国際関係学部・映像学部・生命科学部・薬学部・情報理工学部・総合心理学部・グローバル教養学部。",
+    "universityId": "univ-019"
+  },
+  {
+    "id": "univ-020-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「関西大学」に設置されていない学部はどれ？",
+    "choices": [
+      "人間健康学部",
+      "法学部",
+      "獣医学部",
+      "総合情報学部"
+    ],
+    "correctAnswer": "獣医学部",
+    "explanation": "関西大学には獣医学部は設置されていません。設置学部: 法学部・文学部・経済学部・商学部・社会学部・政策創造学部・外国語学部・人間健康学部・総合情報学部・社会安全学部・システム理工学部・環境都市工学部・化学生命工学部。",
+    "universityId": "univ-020"
+  },
+  {
+    "id": "univ-021-faculty",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「関西学院大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "商学部",
+      "神学部",
+      "観光学部"
+    ],
+    "correctAnswer": "観光学部",
+    "explanation": "関西学院大学には観光学部は設置されていません。設置学部: 神学部・文学部・社会学部・法学部・経済学部・商学部・理学部・工学部・総合政策学部・人間福祉学部・国際学部・教育学部・建築学部。",
+    "universityId": "univ-021"
+  },
+  {
+    "id": "univ-030-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「筑波大学」に設置されていない学部はどれ？",
+    "choices": [
+      "体育専門学群",
+      "教育学部",
+      "医学群",
+      "生命環境学群"
+    ],
+    "correctAnswer": "教育学部",
+    "explanation": "筑波大学には教育学部は設置されていません。設置学部: 人文・文化学群・社会・国際学群・人間学群・生命環境学群・理工学群・情報学群・医学群・体育専門学群・芸術専門学群。",
+    "universityId": "univ-030"
+  },
+  {
+    "id": "univ-031-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「横浜国立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "都市科学部",
+      "教育学部",
+      "経営学部",
+      "看護学部"
+    ],
+    "correctAnswer": "看護学部",
+    "explanation": "横浜国立大学には看護学部は設置されていません。設置学部: 教育学部・経済学部・経営学部・理工学部・都市科学部。",
+    "universityId": "univ-031"
+  },
+  {
+    "id": "univ-032-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「千葉大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "法政経学部",
+      "園芸学部",
+      "薬学部"
+    ],
+    "correctAnswer": "経済学部",
+    "explanation": "千葉大学には経済学部は設置されていません。設置学部: 文学部・法政経学部・教育学部・理学部・工学部・薬学部・医学部・看護学部・園芸学部・国際教養学部。",
+    "universityId": "univ-032"
+  },
+  {
+    "id": "univ-033-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「神戸大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "外国語学部",
+      "農学部",
+      "法学部"
+    ],
+    "correctAnswer": "外国語学部",
+    "explanation": "神戸大学には外国語学部は設置されていません。設置学部: 法学部・経済学部・経営学部・文学部・理学部・工学部・農学部・医学部・海事科学部・国際人間科学部・発達科学部。",
+    "universityId": "univ-033"
+  },
+  {
+    "id": "univ-034-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「広島大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "デザイン学部",
+      "文学部",
+      "医学部"
+    ],
+    "correctAnswer": "デザイン学部",
+    "explanation": "広島大学にはデザイン学部は設置されていません。設置学部: 法学部・経済学部・文学部・教育学部・理学部・工学部・医学部・歯学部・薬学部・生物生産学部・総合科学部・情報科学部。",
+    "universityId": "univ-034"
+  },
+  {
+    "id": "univ-035-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「岡山大学」に設置されていない学部はどれ？",
+    "choices": [
+      "神学部",
+      "環境理工学部",
+      "経済学部",
+      "教育学部"
+    ],
+    "correctAnswer": "神学部",
+    "explanation": "岡山大学には神学部は設置されていません。設置学部: 法学部・経済学部・文学部・教育学部・理学部・工学部・医学部・歯学部・薬学部・農学部・環境理工学部。",
+    "universityId": "univ-035"
+  },
+  {
+    "id": "univ-036-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「金沢大学」に設置されていない学部はどれ？",
+    "choices": [
+      "人間社会学域",
+      "医薬保健学域",
+      "理工学域",
+      "社会学部"
+    ],
+    "correctAnswer": "社会学部",
+    "explanation": "金沢大学には社会学部は設置されていません。設置学部: 人間社会学域・理工学域・医薬保健学域。",
+    "universityId": "univ-036"
+  },
+  {
+    "id": "univ-039-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「東京外国語大学」に設置されていない学部はどれ？",
+    "choices": [
+      "国際社会学部",
+      "歯学部",
+      "国際日本学部",
+      "言語文化学部"
+    ],
+    "correctAnswer": "歯学部",
+    "explanation": "東京外国語大学には歯学部は設置されていません。設置学部: 言語文化学部・国際社会学部・国際日本学部。",
+    "universityId": "univ-039"
+  },
+  {
+    "id": "univ-040-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「お茶の水女子大学」に設置されていない学部はどれ？",
+    "choices": [
+      "水産学部",
+      "理学部",
+      "生活科学部",
+      "文教育学部"
+    ],
+    "correctAnswer": "水産学部",
+    "explanation": "お茶の水女子大学には水産学部は設置されていません。設置学部: 文教育学部・理学部・生活科学部。",
+    "universityId": "univ-040"
+  },
+  {
+    "id": "univ-041-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「東京都立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "獣医学部",
+      "法学部",
+      "人文社会学部",
+      "都市環境学部"
+    ],
+    "correctAnswer": "獣医学部",
+    "explanation": "東京都立大学には獣医学部は設置されていません。設置学部: 法学部・経済経営学部・人文社会学部・理学部・都市環境学部・システムデザイン学部・健康福祉学部。",
+    "universityId": "univ-041"
+  },
+  {
+    "id": "univ-042-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「大阪公立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経営学部",
+      "文学部",
+      "経済学部",
+      "商学部"
+    ],
+    "correctAnswer": "経営学部",
+    "explanation": "大阪公立大学には経営学部は設置されていません。設置学部: 文学部・法学部・経済学部・商学部・理学部・工学部・農学部・医学部・看護学部・現代システム科学域・生活科学部。",
+    "universityId": "univ-042"
+  },
+  {
+    "id": "univ-043-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「横浜市立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経営学部",
+      "国際教養学部",
+      "理学部",
+      "医学部"
+    ],
+    "correctAnswer": "経営学部",
+    "explanation": "横浜市立大学には経営学部は設置されていません。設置学部: 国際教養学部・国際商学部・理学部・データサイエンス学部・医学部・看護学部。",
+    "universityId": "univ-043"
+  },
+  {
+    "id": "univ-044-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「名古屋市立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "情報学部",
+      "看護学部",
+      "芸術工学部"
+    ],
+    "correctAnswer": "情報学部",
+    "explanation": "名古屋市立大学には情報学部は設置されていません。設置学部: 経済学部・人文社会学部・芸術工学部・理学部・医学部・薬学部・看護学部・データサイエンス学部。",
+    "universityId": "univ-044"
+  },
+  {
+    "id": "univ-050-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「日本大学」に設置されていない学部はどれ？",
+    "choices": [
+      "商学部",
+      "獣医学部",
+      "生産工学部",
+      "生物資源科学部"
+    ],
+    "correctAnswer": "獣医学部",
+    "explanation": "日本大学には獣医学部は設置されていません。設置学部: 法学部・文理学部・経済学部・商学部・芸術学部・国際関係学部・理工学部・生産工学部・工学部・医学部・歯学部・松戸歯学部・薬学部・生物資源科学部・スポーツ科学部・危機管理学部・社会学部。",
+    "universityId": "univ-050"
+  },
+  {
+    "id": "univ-051-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「東洋大学」に設置されていない学部はどれ？",
+    "choices": [
+      "福祉社会デザイン学部",
+      "経済学部",
+      "看護学部",
+      "生体医工学部"
+    ],
+    "correctAnswer": "看護学部",
+    "explanation": "東洋大学には看護学部は設置されていません。設置学部: 文学部・経済学部・経営学部・法学部・社会学部・国際学部・国際観光学部・情報連携学部・福祉社会デザイン学部・健康スポーツ科学部・理工学部・総合情報学部・生命科学部・食環境科学部・生体医工学部。",
+    "universityId": "univ-051"
+  },
+  {
+    "id": "univ-052-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「駒澤大学」に設置されていない学部はどれ？",
+    "choices": [
+      "グローバル・メディア・スタディーズ学部",
+      "商学部",
+      "経営学部",
+      "法学部"
+    ],
+    "correctAnswer": "商学部",
+    "explanation": "駒澤大学には商学部は設置されていません。設置学部: 仏教学部・文学部・経済学部・法学部・経営学部・医療健康科学部・グローバル・メディア・スタディーズ学部。",
+    "universityId": "univ-052"
+  },
+  {
+    "id": "univ-053-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「専修大学」に設置されていない学部はどれ？",
+    "choices": [
+      "ネットワーク情報学部",
+      "人間科学部",
+      "法学部",
+      "神学部"
+    ],
+    "correctAnswer": "神学部",
+    "explanation": "専修大学には神学部は設置されていません。設置学部: 経済学部・法学部・経営学部・商学部・文学部・人間科学部・国際コミュニケーション学部・ネットワーク情報学部。",
+    "universityId": "univ-053"
+  },
+  {
+    "id": "univ-054-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「近畿大学」に設置されていない学部はどれ？",
+    "choices": [
+      "産業理工学部",
+      "経済学部",
+      "理学部",
+      "薬学部"
+    ],
+    "correctAnswer": "理学部",
+    "explanation": "近畿大学には理学部は設置されていません。設置学部: 法学部・経済学部・経営学部・理工学部・建築学部・薬学部・文芸学部・総合社会学部・国際学部・農学部・医学部・生物理工学部・工学部・産業理工学部。",
+    "universityId": "univ-054"
+  },
+  {
+    "id": "univ-055-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「龍谷大学」に設置されていない学部はどれ？",
+    "choices": [
+      "社会学部",
+      "芸術学部",
+      "国際学部",
+      "文学部"
+    ],
+    "correctAnswer": "芸術学部",
+    "explanation": "龍谷大学には芸術学部は設置されていません。設置学部: 文学部・経済学部・経営学部・法学部・政策学部・先端理工学部・社会学部・国際学部・農学部・心理学部。",
+    "universityId": "univ-055"
+  },
+  {
+    "id": "univ-070-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「弘前大学」に設置されていない学部はどれ？",
+    "choices": [
+      "人文社会科学部",
+      "教育学部",
+      "神学部",
+      "医学部"
+    ],
+    "correctAnswer": "神学部",
+    "explanation": "弘前大学には神学部は設置されていません。設置学部: 人文社会科学部・教育学部・医学部・理工学部・農学生命科学部。",
+    "universityId": "univ-070"
+  },
+  {
+    "id": "univ-071-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「秋田大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "観光学部",
+      "教育文化学部",
+      "国際資源学部"
+    ],
+    "correctAnswer": "観光学部",
+    "explanation": "秋田大学には観光学部は設置されていません。設置学部: 国際資源学部・教育文化学部・理工学部・医学部。",
+    "universityId": "univ-071"
+  },
+  {
+    "id": "univ-072-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「山形大学」に設置されていない学部はどれ？",
+    "choices": [
+      "農学部",
+      "理学部",
+      "教育学部",
+      "人文社会科学部"
+    ],
+    "correctAnswer": "教育学部",
+    "explanation": "山形大学には教育学部は設置されていません。設置学部: 人文社会科学部・地域教育文化学部・理学部・工学部・農学部・医学部。",
+    "universityId": "univ-072"
+  },
+  {
+    "id": "univ-073-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「福島大学」に設置されていない学部はどれ？",
+    "choices": [
+      "食農学類",
+      "デザイン学部",
+      "人間発達文化学類",
+      "経済経営学類"
+    ],
+    "correctAnswer": "デザイン学部",
+    "explanation": "福島大学にはデザイン学部は設置されていません。設置学部: 行政政策学類・経済経営学類・人間発達文化学類・理工学群・食農学類。",
+    "universityId": "univ-073"
+  },
+  {
+    "id": "univ-074-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「宇都宮大学」に設置されていない学部はどれ？",
+    "choices": [
+      "共同教育学部",
+      "商学部",
+      "地域デザイン科学部",
+      "農学部"
+    ],
+    "correctAnswer": "商学部",
+    "explanation": "宇都宮大学には商学部は設置されていません。設置学部: 地域デザイン科学部・国際学部・共同教育学部・工学部・農学部・データサイエンス経営学部。",
+    "universityId": "univ-074"
+  },
+  {
+    "id": "univ-075-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「群馬大学」に設置されていない学部はどれ？",
+    "choices": [
+      "観光学部",
+      "理工学部",
+      "共同教育学部",
+      "医学部"
+    ],
+    "correctAnswer": "観光学部",
+    "explanation": "群馬大学には観光学部は設置されていません。設置学部: 共同教育学部・社会情報学部・理工学部・医学部。",
+    "universityId": "univ-075"
+  },
+  {
+    "id": "univ-076-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「信州大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "繊維学部",
+      "農学部",
+      "経済学部"
+    ],
+    "correctAnswer": "経済学部",
+    "explanation": "信州大学には経済学部は設置されていません。設置学部: 人文学部・教育学部・経法学部・理学部・工学部・農学部・医学部・繊維学部。",
+    "universityId": "univ-076"
+  },
+  {
+    "id": "univ-077-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「静岡大学」に設置されていない学部はどれ？",
+    "choices": [
+      "情報学部",
+      "文学部",
+      "農学部",
+      "教育学部"
+    ],
+    "correctAnswer": "文学部",
+    "explanation": "静岡大学には文学部は設置されていません。設置学部: 人文社会科学部・教育学部・情報学部・理学部・工学部・農学部。",
+    "universityId": "univ-077"
+  },
+  {
+    "id": "univ-078-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「三重大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "人文学部",
+      "生物資源学部",
+      "芸術学部"
+    ],
+    "correctAnswer": "芸術学部",
+    "explanation": "三重大学には芸術学部は設置されていません。設置学部: 人文学部・教育学部・医学部・工学部・生物資源学部。",
+    "universityId": "univ-078"
+  },
+  {
+    "id": "univ-079-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「鳥取大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "地域学部",
+      "デザイン学部",
+      "農学部"
+    ],
+    "correctAnswer": "デザイン学部",
+    "explanation": "鳥取大学にはデザイン学部は設置されていません。設置学部: 地域学部・医学部・工学部・農学部。",
+    "universityId": "univ-079"
+  },
+  {
+    "id": "univ-080-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「島根大学」に設置されていない学部はどれ？",
+    "choices": [
+      "生物資源科学部",
+      "法文学部",
+      "医学部",
+      "商学部"
+    ],
+    "correctAnswer": "商学部",
+    "explanation": "島根大学には商学部は設置されていません。設置学部: 法文学部・教育学部・医学部・総合理工学部・生物資源科学部。",
+    "universityId": "univ-080"
+  },
+  {
+    "id": "univ-081-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「愛媛大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "社会共創学部",
+      "教育学部",
+      "経営学部"
+    ],
+    "correctAnswer": "経営学部",
+    "explanation": "愛媛大学には経営学部は設置されていません。設置学部: 法文学部・教育学部・社会共創学部・理学部・工学部・農学部・医学部。",
+    "universityId": "univ-081"
+  },
+  {
+    "id": "univ-082-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「高知大学」に設置されていない学部はどれ？",
+    "choices": [
+      "人文社会科学部",
+      "農林海洋科学部",
+      "薬学部",
+      "教育研究部"
+    ],
+    "correctAnswer": "薬学部",
+    "explanation": "高知大学には薬学部は設置されていません。設置学部: 人文社会科学部・教育研究部・理工学部・農林海洋科学部・医学部。",
+    "universityId": "univ-082"
+  },
+  {
+    "id": "univ-083-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「佐賀大学」に設置されていない学部はどれ？",
+    "choices": [
+      "理工学部",
+      "看護学部",
+      "文化教育学部",
+      "医学部"
+    ],
+    "correctAnswer": "看護学部",
+    "explanation": "佐賀大学には看護学部は設置されていません。設置学部: 文化教育学部・経済学部・医学部・理工学部・農学部・芸術地域デザイン学部。",
+    "universityId": "univ-083"
+  },
+  {
+    "id": "univ-084-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「長崎大学」に設置されていない学部はどれ？",
+    "choices": [
+      "情報データ科学部",
+      "医学部",
+      "建築学部",
+      "水産学部"
+    ],
+    "correctAnswer": "建築学部",
+    "explanation": "長崎大学には建築学部は設置されていません。設置学部: 多文化社会学部・教育学部・経済学部・医学部・歯学部・薬学部・工学部・環境科学部・水産学部・情報データ科学部。",
+    "universityId": "univ-084"
+  },
+  {
+    "id": "univ-085-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「熊本大学」に設置されていない学部はどれ？",
+    "choices": [
+      "情報融合学環",
+      "社会学部",
+      "理学部",
+      "薬学部"
+    ],
+    "correctAnswer": "社会学部",
+    "explanation": "熊本大学には社会学部は設置されていません。設置学部: 文学部・教育学部・法学部・理学部・医学部・薬学部・工学部・情報融合学環。",
+    "universityId": "univ-085"
+  },
+  {
+    "id": "univ-086-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「大分大学」に設置されていない学部はどれ？",
+    "choices": [
+      "福祉健康科学部",
+      "法学部",
+      "経済学部",
+      "教育学部"
+    ],
+    "correctAnswer": "法学部",
+    "explanation": "大分大学には法学部は設置されていません。設置学部: 経済学部・教育学部・理工学部・医学部・福祉健康科学部。",
+    "universityId": "univ-086"
+  },
+  {
+    "id": "univ-087-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「宮崎大学」に設置されていない学部はどれ？",
+    "choices": [
+      "農学部",
+      "地域資源創成学部",
+      "デザイン学部",
+      "工学部"
+    ],
+    "correctAnswer": "デザイン学部",
+    "explanation": "宮崎大学にはデザイン学部は設置されていません。設置学部: 教育学部・地域資源創成学部・工学部・農学部・医学部。",
+    "universityId": "univ-087"
+  },
+  {
+    "id": "univ-088-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「鹿児島大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経営学部",
+      "共同獣医学部",
+      "経済学部",
+      "法文学部"
+    ],
+    "correctAnswer": "経営学部",
+    "explanation": "鹿児島大学には経営学部は設置されていません。設置学部: 法文学部・教育学部・経済学部・理学部・医学部・歯学部・工学部・農学部・水産学部・共同獣医学部。",
+    "universityId": "univ-088"
+  },
+  {
+    "id": "univ-089-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「琉球大学」に設置されていない学部はどれ？",
+    "choices": [
+      "国際地域創造学部",
+      "水産学部",
+      "農学部",
+      "医学部"
+    ],
+    "correctAnswer": "水産学部",
+    "explanation": "琉球大学には水産学部は設置されていません。設置学部: 法文学部・教育学部・理学部・医学部・工学部・農学部・国際地域創造学部。",
+    "universityId": "univ-089"
+  },
+  {
+    "id": "univ-094-faculty",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「兵庫県立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "国際商経学部",
+      "法学部",
+      "環境人間学部",
+      "社会情報科学部"
+    ],
+    "correctAnswer": "法学部",
+    "explanation": "兵庫県立大学には法学部は設置されていません。設置学部: 国際商経学部・社会情報科学部・工学部・理学部・環境人間学部・看護学部・情報科学部。",
+    "universityId": "univ-094"
+  },
+  {
+    "id": "F136110110231-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「徳島大学」に設置されていない学部はどれ？",
+    "choices": [
+      "理工学部",
+      "薬学部",
+      "工学部",
+      "歯学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "徳島大学には工学部は設置されていません。設置学部: 総合科学部・医学部・歯学部・薬学部・理工学部・生物資源産業学部。",
+    "universityId": "F136110110231"
+  },
+  {
+    "id": "F107210101280-faculty",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「福島県立医科大学」に設置されていない学部はどれ？",
+    "choices": [
+      "理学部",
+      "看護学部",
+      "保健科学部",
+      "医学部"
+    ],
+    "correctAnswer": "理学部",
+    "explanation": "福島県立医科大学には理学部は設置されていません。設置学部: 医学部・看護学部・保健科学部。",
+    "universityId": "F107210101280"
+  },
+  {
+    "id": "manual-f-e-01",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「東京理科大学」に設置されていない学部はどれ？",
+    "choices": [
+      "理学部",
+      "工学部",
+      "薬学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "東京理科大学には農学部は設置されていません。理学部・工学部・薬学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-02",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「学習院大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "文学部",
+      "経済学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "学習院大学には農学部は設置されていません。法学部・文学部・経済学部・理学部・国際社会科学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-03",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「近畿大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "薬学部",
+      "農学部",
+      "教育学部"
+    ],
+    "correctAnswer": "教育学部",
+    "explanation": "近畿大学には教育学部は設置されていません。医学部・薬学部・農学部・法学部・経済学部など多数の学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-04",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「日本大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "医学部",
+      "歯学部",
+      "水産学部"
+    ],
+    "correctAnswer": "水産学部",
+    "explanation": "日本大学には水産学部は設置されていません。法学部・医学部・歯学部・理工学部・農学部など多数の学部があります。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-05",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「東京都立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "理学部",
+      "工学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "東京都立大学には農学部は設置されていません。法学部・理学部・工学部・経営学部・人文社会学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-06",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「大阪公立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "医学部",
+      "農学部",
+      "神学部"
+    ],
+    "correctAnswer": "神学部",
+    "explanation": "大阪公立大学には神学部は設置されていません。工学部・医学部・農学部・理学部・文学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-07",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「横浜市立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "国際商学部",
+      "データサイエンス学部",
+      "工学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "横浜市立大学には工学部は設置されていません。医学部・国際商学部・データサイエンス学部・理学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-08",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「名古屋市立大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "薬学部",
+      "経済学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "名古屋市立大学には農学部は設置されていません。医学部・薬学部・経済学部・人文社会学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-e-09",
+    "genre": "faculty",
+    "difficulty": "easy",
+    "text": "「立命館アジア太平洋大学」に設置されていない学部はどれ？",
+    "choices": [
+      "アジア太平洋学部",
+      "国際経営学部",
+      "サステイナビリティ観光学部",
+      "工学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "立命館アジア太平洋大学（APU）には工学部は設置されていません。アジア太平洋学部・国際経営学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-01",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「東海大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "医学部",
+      "農学部",
+      "薬学部"
+    ],
+    "correctAnswer": "薬学部",
+    "explanation": "東海大学には薬学部は設置されていません。工学部・医学部・農学部・文学部・体育学部など多数の学部があります。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-02",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「武蔵大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "社会学部",
+      "国際学部",
+      "工学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "武蔵大学には工学部は設置されていません。経済学部・社会学部・国際教養学部・人文学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-03",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「成蹊大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "経済学部",
+      "文学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "成蹊大学には農学部は設置されていません。法学部・経済学部・文学部・理工学部・経営学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-04",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「南山大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "文学部",
+      "外国語学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "南山大学には農学部は設置されていません。法学部・文学部・外国語学部・経済学部・国際学部・経営学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-05",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「京都産業大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "法学部",
+      "理学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "京都産業大学には農学部は設置されていません。経済学部・法学部・理学部・外国語学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-06",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「福岡大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "医学部",
+      "薬学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "福岡大学には農学部は設置されていません。法学部・医学部・薬学部・工学部・理学部・商学部・経済学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-07",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「西南学院大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "神学部",
+      "商学部",
+      "工学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "西南学院大学には工学部は設置されていません。法学部・神学部・商学部・文学部・国際文化学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-08",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「芝浦工業大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "デザイン学部",
+      "建築学部",
+      "法学部"
+    ],
+    "correctAnswer": "法学部",
+    "explanation": "芝浦工業大学には法学部は設置されていません。工学部・建築学部・デザイン工学部・システム理工学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-m-09",
+    "genre": "faculty",
+    "difficulty": "medium",
+    "text": "「東北学院大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "経済学部",
+      "文学部",
+      "医学部"
+    ],
+    "correctAnswer": "医学部",
+    "explanation": "東北学院大学には医学部は設置されていません。法学部・経済学部・文学部・工学部・情報学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-01",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「亜細亜大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "法学部",
+      "経営学部",
+      "医学部"
+    ],
+    "correctAnswer": "医学部",
+    "explanation": "亜細亜大学には医学部は設置されていません。経済学部・法学部・経営学部・国際関係学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-02",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「大東文化大学」に設置されていない学部はどれ？",
+    "choices": [
+      "法学部",
+      "文学部",
+      "社会学部",
+      "工学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "大東文化大学には工学部は設置されていません。法学部・文学部・社会学部・経済学部・外国語学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-03",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「帝京大学」に設置されていない学部はどれ？",
+    "choices": [
+      "医学部",
+      "法学部",
+      "経済学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "帝京大学には農学部は設置されていません。医学部・法学部・経済学部・外国語学部・教育学部・理工学部などが設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-04",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「国士舘大学」に設置されていない学部はどれ？",
+    "choices": [
+      "体育学部",
+      "文学部",
+      "法学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "国士舘大学には農学部は設置されていません。体育学部・文学部・法学部・政経学部・理工学部・マネジメント学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-05",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「文教大学」に設置されていない学部はどれ？",
+    "choices": [
+      "教育学部",
+      "文学部",
+      "情報学部",
+      "工学部"
+    ],
+    "correctAnswer": "工学部",
+    "explanation": "文教大学には工学部は設置されていません。教育学部・文学部・情報学部・経営学部・国際学部・健康栄養学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-06",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「流通経済大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "社会学部",
+      "法学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "流通経済大学には農学部は設置されていません。経済学部・社会学部・法学部・流通情報学部・スポーツ健康科学学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-07",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「明星大学」に設置されていない学部はどれ？",
+    "choices": [
+      "教育学部",
+      "経営学部",
+      "建築学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "明星大学には農学部は設置されていません。教育学部・経営学部・建築学部・デザイン学部・情報学部・心理学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-08",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「城西大学」に設置されていない学部はどれ？",
+    "choices": [
+      "経済学部",
+      "薬学部",
+      "社会学部",
+      "法学部"
+    ],
+    "correctAnswer": "法学部",
+    "explanation": "城西大学には法学部は設置されていません。経済学部・薬学部・社会学部・現代政策学部・経営学部が設置されています。",
+    "universityId": ""
+  },
+  {
+    "id": "manual-f-h-09",
+    "genre": "faculty",
+    "difficulty": "hard",
+    "text": "「拓殖大学」に設置されていない学部はどれ？",
+    "choices": [
+      "工学部",
+      "商学部",
+      "外国語学部",
+      "農学部"
+    ],
+    "correctAnswer": "農学部",
+    "explanation": "拓殖大学には農学部は設置されていません。工学部・商学部・外国語学部・政経学部・国際学部が設置されています。",
+    "universityId": ""
+  }
+]
