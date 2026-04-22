@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "fetch-data": "tsx scripts/fetch-universities.ts",
+    "generate-questions": "tsx scripts/generate-questions.ts",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
@@ -25,6 +26,7 @@
     "eslint-config-next": "16.2.4",
     "tailwindcss": "^4",
     "tsx": "^4.21.0",
-    "typescript": "^5"
+    "typescript": "^5",
+    "xlsx": "^0.18.5"
   }
 }

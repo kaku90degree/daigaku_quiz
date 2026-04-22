@@ -44,3 +44,6 @@ next-env.d.ts
 CLAUDE.md
 docs/
 .steering/
+
+# 文科省ダウンロードデータ（ライセンス・容量の観点でリポジトリに含めない）
+datasets/

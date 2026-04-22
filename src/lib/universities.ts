@@ -1,23 +1,13 @@
-import type { University, Difficulty } from "@/types";
+import type { Question } from "@/types";
 
-let cache: University[] | null = null;
+let cache: Question[] | null = null;
 
-export async function loadUniversities(): Promise<University[]> {
+export async function loadQuestions(): Promise<Question[]> {
   if (cache) return cache;
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
-  const res = await fetch(`${basePath}/data/universities.json`);
-  cache = (await res.json()) as University[];
+  const res = await fetch(`${basePath}/data/questions.json`);
+  cache = (await res.json()) as Question[];
   return cache;
-}
-
-export function filterByDifficulty(
-  universities: University[],
-  difficulty: Difficulty
-): University[] {
-  if (difficulty === "hard") return universities;
-  if (difficulty === "medium")
-    return universities.filter((u) => u.difficulty !== "hard");
-  return universities.filter((u) => u.difficulty === "easy");
 }
 
 export function shuffle<T>(arr: T[]): T[] {
@@ -27,8 +17,4 @@ export function shuffle<T>(arr: T[]): T[] {
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
-}
-
-export function pickRandom<T>(arr: T[], n: number): T[] {
-  return shuffle(arr).slice(0, n);
 }
