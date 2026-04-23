@@ -22,6 +22,7 @@ export type University = {
 export type Question = {
   id: string;
   genre: Genre;
+  difficulty: Difficulty;
   text: string;
   choices: string[];
   correctAnswer: string;

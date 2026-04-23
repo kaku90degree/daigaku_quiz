@@ -6,7 +6,7 @@ import type { Genre, Difficulty, QuizSession } from '@/types'
 import { GenreSelector } from '@/components/quiz/GenreSelector'
 import { DifficultySelector } from '@/components/quiz/DifficultySelector'
 import { generateQuiz } from '@/lib/quiz-engine'
-import { loadUniversities } from '@/lib/universities'
+import { loadQuestions } from '@/lib/universities'
 
 export default function HomePage() {
   const router = useRouter()
@@ -20,8 +20,8 @@ export default function HomePage() {
     setLoading(true)
     setError(null)
     try {
-      const universities = await loadUniversities()
-      const questions = generateQuiz(genre, difficulty, universities)
+      const allQuestions = await loadQuestions()
+      const questions = generateQuiz(genre, difficulty, allQuestions)
       if (questions.length < 5) {
         setError('この難易度・ジャンルの問題が足りません。難易度を変えてお試しください。')
         return
